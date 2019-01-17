@@ -1,0 +1,6 @@
+<application>
+  <component name="PathMacrosImpl">
+    <macro name="MAVEN_REPOSITORY" value="C:\Users\Ayka\.m2\repository" />
+    <macro name="KOTLIN_BUNDLED" value="C:\Users\Ayka\.gradle\caches\modules-2\files-2.1\com.jetbrains.intellij.idea\ideaIC\2018.2.2\bb30662f57b73e341655b76260d13d8c0fe6abbd\ideaIC-2018.2.2\plugins\Kotlin\kotlinc" />
+  </component>
+</application>
